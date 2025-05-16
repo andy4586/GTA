@@ -141,8 +141,8 @@ function App() {
             <div className="imagesdiv relative overflow-hidden w-full h-screen">
               <img
                 className="absolute sky scale-[1.5] rotate-[-20deg] top-0 left-0 w-full h-full object-cover"
-                src="./sky.png"
-                alt=""
+                src="/sky.png"
+                alt="sky"
               />
               <img
                 className="absolute scale-[1.8] rotate-[-3deg] bg top-0 left-0 w-full h-full object-cover"
@@ -155,7 +155,7 @@ function App() {
                 <h1 className="text-[12rem] leading-none -ml-40">auto</h1>
               </div>
               <img
-                className="absolute character -bottom-[150%] left-1/2 -translate-x-1/2  scale-[3] rotate-[-20deg]"
+                className="absolute character bottom-0   left-1/2 transform-translate-x-1/2  w-[500px] max-h-[100vh] object-contain "
                 src="./girlbg.png"
                 alt=""
               />
@@ -168,7 +168,7 @@ function App() {
                 </h3>
               </div>
               <img
-                className="absolute h-[55px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+                className="absolute h-[105px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
                 src="./ps5.png"
                 alt=""
               />
@@ -183,23 +183,23 @@ function App() {
                   alt=""
                 />
               </div>
-              <div className="rg w-[30%] py-30">
+              <div className="rg w-[50%] py-20 px-20">
                 <h1 className="text-8xl">Still Running,</h1>
                 <h1 className="text-8xl">Not Hunting</h1>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-10 text-xs font-[Helvetica_Now_Display]">
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                   Distinctio possimus, asperiores nam, omnis inventore nesciunt
                   a architecto eveniet saepe, ducimus necessitatibus at
                   voluptate.
                 </p>
-                <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-1 text-xs font-[Helvetica_Now_Display]">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. At
                   eius illum fugit eligendi nesciunt quia similique velit
                   excepturi soluta tenetur illo repellat consectetur laborum
                   eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
                   autem sapiente.
                 </p>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-1 text-xs font-[Helvetica_Now_Display]">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. At
                   eius illum fugit eligendi nesciunt quia similique velit
                   excepturi soluta tenetur illo repellat consectetur laborum
