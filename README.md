@@ -1,12 +1,23 @@
-# React + Vite
+Welcome to the GTA VI Landing Page – a fully responsive and visually appealing promotional website created to showcase the upcoming release of Grand Theft Auto VI. Built with HTML, CSS, and JavaScript, this landing page aims to provide a real-world project experience simulating a high-quality product marketing site.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
+🎨 Modern & Responsive UI – Adapts perfectly across all devices (desktop, tablet, mobile)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📷 High-Quality Visuals – Showcases GTA VI graphics and screenshots
 
-## Expanding the ESLint configuration
+📄 Detailed Game Info – Sections covering storyline, characters, and features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 Release Countdown – Live countdown timer until game release
+
+📍 Location Highlights – Displaying the in-game map or city highlights
+
+📦 Pre-order Call to Action – Prominent buttons and links to boost engagement
+
+🛠️ Tech Stack
+
+HTML5 – Semantic markup for structured layout
+
+CSS3 – Custom styling with media queries for responsiveness
+
+JavaScript – For dynamic content like countdown timer and interactivity
